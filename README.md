@@ -1,13 +1,13 @@
 👋 Hi, I’m Clair
 
-👀 Go find me over at [clairross.com](https://clairross.com)
+🖋️ You can find me on [LinkedIn here](https://www.linkedin.com/in/clairross/)
 
-🏢 I'm working with [Unity3D](https://github.com/Unity-Technologies) right now, working on the [:arrow_down: Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)!
+🏢 I'm currently working with [Unity](https://github.com/Unity-Technologies) as a part of the Accessibility team. ♿
 
 In my spare time I like to...
 - 🎮 Program games
 - 🎲 Write and play table top games
-- 🎧 Work on audio projects (myterious)
+- 🏳️‍🌈 Offer my time and energy to my community
 
 <!---
 clair-ross/clair-ross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
