@@ -1,14 +1,14 @@
 👋 Hi, I’m Clair
 
-🏢 I'm an ex-[Unity](https://github.com/Unity-Technologies) employee who was a part of the Accessibility team. ♿
+🏢 I used to improve the accessibility of products at [Unity](https://github.com/Unity-Technologies) but left the company and tech world entirely after being fired for standing up against discrimination.
 
-I was fired due to calling out descrimination against the homeless populations of Vancouver, BC during a period of mass eviction multiple times over the coarse of a few months. The reason I was given was broking code of conduct, which is the exact code of conduct I criticized the day before being fired, exposing how it supports the white suprematist ideal of Right to Comfort and calling for others to help in re-writing it.
+🏫 Now I research accessibility in grad school. While academia has its (glaring) flaws, it is a great improvement and a better environment for disability advocacy.
 
-🖋️ If you'd like to work with someone who's passionate about social change and accessibility, who was given accolades by teammates and execs alike, you can find me on [LinkedIn here](https://www.linkedin.com/in/clairross/)
+🖋️ If **you'd** like to work with me, you can find me on [LinkedIn here](https://www.linkedin.com/in/clairross/).
 
-In my spare time I like to...
+In my spare time, I like to...
 - 🎮 Program games
-- 🎲 Write and play table top games
+- 🎲 Write and play tabletop games
 - 🏳️‍🌈 Offer my time and energy to my community
 
 <!---
