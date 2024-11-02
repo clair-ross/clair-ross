@@ -2,7 +2,7 @@
 
 🏢 I used to improve the accessibility of products at [Unity](https://github.com/Unity-Technologies) but left the company and tech world entirely after being fired for standing up against discrimination.
 
-🏫 Now I research accessibility in grad school. While academia has its (glaring) flaws, it is a great improvement and a better environment for disability advocacy.
+🏫 Now I condust research in grad school with a focus on accessibility.
 
 🖋️ If **you'd** like to work with me, you can find me on [LinkedIn here](https://www.linkedin.com/in/clairross/).
 
